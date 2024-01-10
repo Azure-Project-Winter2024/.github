@@ -1,5 +1,4 @@
-# CSP451 Computer Systems Project - Cloud Environment
-# CAA900 Capstone Project - Azure Project
+# Azure Project Winter 2024
 
 Access to the content of this organization and its repositories is strictly by invitation. If you have registered for the course, you are eligible to be part of this organization.
 
